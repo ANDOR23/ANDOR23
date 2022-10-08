@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANDOR23
-- 👀 I’m interested in web develpment, specially in backend 
-- 🌱 I’m currently learning how tu develop APIs on Python frameworks like Flask, and Laravel with PHP
-- 💞️ I'm looking to collaborate on a startup that allows me increase my skills and helps me to grow professionally
+- 👀 I’m interested in web develpment, specially in backend.
+- 🌱 I’m currently learning how tu develop web apps using Rails on the backend and React on the frontend.
+- 💞️ I'm looking to collaborate on a startup that allows me increase my skills and helps me to grow professionally.
 - 📫 How to reach me: Email: andres.orozco.rioss@gmail.com 
 
 <!---
